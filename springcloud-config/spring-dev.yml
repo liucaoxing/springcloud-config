@@ -7,7 +7,7 @@ server:
 
 spring:
   application:
-    name: cloud-payment-service
+    name: cloud-payment-service3
 #zookeeper 注册地址
   cloud:
     zookeeper:
